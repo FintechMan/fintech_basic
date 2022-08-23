@@ -6,4 +6,4 @@ cmake_minimum_required (VERSION 3.8)
 project ("fintech_basic")
 
 # 包含子项目。
-add_subdirectory ("fintech_basic")
+add_subdirectory ("data_structure")
